@@ -1,0 +1,47 @@
+<clothes>
+        <item>
+            <clothName>tshirt</clothName>
+            <color>red</color>
+            <material>akril</material>
+            <clean>false</clean>
+            <dry>true</dry>
+            <srink>false</srink>
+        </item>
+
+    <item>
+        <clothName>boxer</clothName>
+        <color>blue</color>
+        <material>textil</material>
+        <clean>false</clean>
+        <dry>true</dry>
+        <srink>false</srink>
+    </item>
+
+    <item>
+        <clothName>hoodie</clothName>
+        <color>black</color>
+        <material>drape</material>
+        <clean>false</clean>
+        <dry>true</dry>
+        <srink>false</srink>
+    </item>
+
+    <item>
+        <clothName>socks</clothName>
+        <color>yellow</color>
+        <material>cotton</material>
+        <clean>false</clean>
+        <dry>true</dry>
+        <srink>false</srink>
+    </item>
+
+    <item>
+        <clothName>towel</clothName>
+        <color>green</color>
+        <material>frottier</material>
+        <clean>false</clean>
+        <dry>true</dry>
+        <srink>false</srink>
+    </item>
+        
+</clothes>
